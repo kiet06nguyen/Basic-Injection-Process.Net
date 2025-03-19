@@ -1,4 +1,4 @@
-# LinqConsoleExample
+# InjectDllExample
 A simple C# project that illustrates how to insert 1 dll into any process using the kernel library
 
 ## Introduction
