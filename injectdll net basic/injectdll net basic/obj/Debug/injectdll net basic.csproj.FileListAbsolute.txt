@@ -1,0 +1,7 @@
+E:\injectdll net basic\injectdll net basic\bin\Debug\injectdll net basic.exe.config
+E:\injectdll net basic\injectdll net basic\bin\Debug\injectdll net basic.exe
+E:\injectdll net basic\injectdll net basic\bin\Debug\injectdll net basic.pdb
+E:\injectdll net basic\injectdll net basic\obj\Debug\injectdll net basic.csproj.AssemblyReference.cache
+E:\injectdll net basic\injectdll net basic\obj\Debug\injectdll net basic.csproj.CoreCompileInputs.cache
+E:\injectdll net basic\injectdll net basic\obj\Debug\injectdll net basic.exe
+E:\injectdll net basic\injectdll net basic\obj\Debug\injectdll net basic.pdb
